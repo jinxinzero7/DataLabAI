@@ -16,9 +16,9 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMyOrigin",
-        policy => policy.WithOrigins("http://localhost:7285") // Замените на адрес вашего фронтенда
-                          .AllowAnyMethod()
-                          .AllowAnyHeader());
+        policy => policy.WithOrigins("https://localhost:7285") // Замените на адрес вашего фронтенда (заменено)
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
 });
 
 
@@ -40,4 +40,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MapGet("/", () => Results.Redirect("/swagger"));
 app.Run();
