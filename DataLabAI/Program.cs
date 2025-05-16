@@ -1,4 +1,4 @@
-using Microsoft.OpenApi.Models;  // Для OpenApiInfo и других типов Swagger
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,11 +12,11 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Your API", Version = "v1" });
 });
 
-// Configure CORS in the `ConfigureServices` area (where `builder.Services` is available)
+// Configure CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMyOrigin",
-        policy => policy.WithOrigins("https://localhost:7285") // Замените на адрес вашего фронтенда (заменено)
+        policy => policy.WithOrigins("https://localhost:7285")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
 });
@@ -33,12 +33,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Add CORS middleware *after* UseHttpsRedirection and *before* UseAuthorization
+// Add CORS middleware
 app.UseCors("AllowMyOrigin");
 
 app.UseAuthorization();
 
 app.MapControllers();
 
+// Redirect into swaga
 app.MapGet("/", () => Results.Redirect("/swagger"));
 app.Run();
