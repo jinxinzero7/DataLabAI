@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataLabAI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>DataLabAI</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="file" id="fileInput">
+    <label for="delimiter">Разделитель:</label>
+    <input type="text" name="delimiter" id="delimiter" value=",">
+    <button type="submit">Анализировать</button>
+    </form>
+    <div id="results"></div>
+    <script src="app.js"></script>
+</body>
+</html>

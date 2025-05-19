@@ -1,6 +1,6 @@
-E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\wwwroot\js\app.js
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\wwwroot\style.css
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\wwwroot\app.js
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\wwwroot\index.html
-E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\wwwroot\css\style.css
-wwwroot\css\style.css
+wwwroot\app.js
 wwwroot\index.html
-wwwroot\js\app.js
+wwwroot\style.css

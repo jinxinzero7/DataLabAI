@@ -5,22 +5,20 @@
     "version": "v1"
   },
   "paths": {
-    "/": {
-      "get": {
-        "tags": [
-          "DataLabAI"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/File/upload": {
       "post": {
         "tags": [
           "File"
+        ],
+        "parameters": [
+          {
+            "name": "delimiter",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": ","
+            }
+          }
         ],
         "requestBody": {
           "content": {

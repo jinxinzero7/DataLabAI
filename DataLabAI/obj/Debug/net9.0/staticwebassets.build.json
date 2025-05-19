@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SK5ChlJwIG2jxHuXkEJW3zYe4LMWponbfEBwvPgFaX8=",
+  "Hash": "qa9b/PDKdZvQBBt1b2JqJfbbZzJUSriF4TvrxPkA5mI=",
   "Source": "DataLabAI",
   "BasePath": "_content/DataLabAI",
   "Mode": "Default",
@@ -17,33 +17,54 @@
   ],
   "Assets": [
     {
-      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\0wzbqsaccy-5ipweew5fc.gz",
+      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\5ckirgpzdi-5ipweew5fc.gz",
       "SourceId": "DataLabAI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DataLabAI",
-      "RelativePath": "js/app#[.{fingerprint=5ipweew5fc}]?.js.gz",
+      "RelativePath": "style#[.{fingerprint=5ipweew5fc}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js",
+      "RelatedAsset": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5ipweew5fc",
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js"
+      "OriginalItemSpec": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css"
     },
     {
-      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-if2rr2wmol.gz",
+      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\jtaxcs3at4-aogx9fvjr9.gz",
       "SourceId": "DataLabAI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DataLabAI",
-      "RelativePath": "index#[.{fingerprint=if2rr2wmol}]?.html.gz",
+      "RelativePath": "app#[.{fingerprint=aogx9fvjr9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vb7n12g2x3",
+      "Integrity": "JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-p2s4ftwllj.gz",
+      "SourceId": "DataLabAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DataLabAI",
+      "RelativePath": "index#[.{fingerprint=p2s4ftwllj}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,40 +73,19 @@
       "RelatedAsset": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4a6dc2647g",
-      "Integrity": "DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q=",
-      "CopyToOutputDirectory": "Never",
+      "Fingerprint": "37cvwbmhrb",
+      "Integrity": "fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU=",
+      "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\index.html"
     },
     {
-      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\sktww85uar-5ipweew5fc.gz",
-      "SourceId": "DataLabAI",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/DataLabAI",
-      "RelativePath": "css/style#[.{fingerprint=5ipweew5fc}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css"
-    },
-    {
-      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css",
+      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js",
       "SourceId": "DataLabAI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\",
       "BasePath": "_content/DataLabAI",
-      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "RelativePath": "app#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +94,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
+      "Fingerprint": "aogx9fvjr9",
+      "Integrity": "VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw=",
+      "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
+      "OriginalItemSpec": "wwwroot\\app.js"
     },
     {
       "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\index.html",
@@ -115,19 +115,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "if2rr2wmol",
-      "Integrity": "8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM=",
-      "CopyToOutputDirectory": "Never",
+      "Fingerprint": "p2s4ftwllj",
+      "Integrity": "IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY=",
+      "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js",
+      "Identity": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css",
       "SourceId": "DataLabAI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\",
       "BasePath": "_content/DataLabAI",
-      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "RelativePath": "style#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -140,18 +140,18 @@
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\app.js"
+      "OriginalItemSpec": "wwwroot\\style.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "css/style.5ipweew5fc.css",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\sktww85uar-5ipweew5fc.gz",
+      "Route": "app.aogx9fvjr9.js",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\jtaxcs3at4-aogx9fvjr9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.000853970965"
         }
       ],
       "ResponseHeaders": [
@@ -161,15 +161,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "1170"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -185,31 +185,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "aogx9fvjr9"
         },
         {
           "Name": "label",
-          "Value": "css/style.css"
+          "Value": "app.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw="
         }
       ]
     },
     {
-      "Route": "css/style.5ipweew5fc.css",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css",
+      "Route": "app.aogx9fvjr9.js",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -218,19 +218,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "3325"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -240,21 +240,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "aogx9fvjr9"
         },
         {
           "Name": "label",
-          "Value": "css/style.css"
+          "Value": "app.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw="
         }
       ]
     },
     {
-      "Route": "css/style.5ipweew5fc.css.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\sktww85uar-5ipweew5fc.gz",
+      "Route": "app.aogx9fvjr9.js.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\jtaxcs3at4-aogx9fvjr9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,19 +263,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "1170"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,26 +293,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "aogx9fvjr9"
         },
         {
           "Name": "label",
-          "Value": "css/style.css.gz"
+          "Value": "app.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI="
         }
       ]
     },
     {
-      "Route": "css/style.css",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\sktww85uar-5ipweew5fc.gz",
+      "Route": "app.js",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\jtaxcs3at4-aogx9fvjr9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.000853970965"
         }
       ],
       "ResponseHeaders": [
@@ -322,15 +322,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "1170"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -346,23 +346,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw="
         }
       ]
     },
     {
-      "Route": "css/style.css",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css",
+      "Route": "app.js",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -371,19 +371,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "3325"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -393,13 +393,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-VjjhxYEDEwW6Zf3xYN1hvYNlxEiWN2zbiSaUVw1ZJCw="
         }
       ]
     },
     {
-      "Route": "css/style.css.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\sktww85uar-5ipweew5fc.gz",
+      "Route": "app.js.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\jtaxcs3at4-aogx9fvjr9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -408,19 +408,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "1170"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 21:51:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -438,18 +438,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-JRImKmA04mqi7jewQZCKjECcM8LLLg4AcewbrOpk0GI="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-if2rr2wmol.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-p2s4ftwllj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004424778761"
+          "Quality": "0.002433090024"
         }
       ],
       "ResponseHeaders": [
@@ -459,15 +459,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "410"
         },
         {
           "Name": "ETag",
-          "Value": "\"DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q=\""
+          "Value": "\"fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -487,13 +487,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM=\""
+          "Value": "W/\"IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM="
+          "Value": "sha256-IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY="
         }
       ]
     },
@@ -508,7 +508,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "316"
+          "Value": "659"
         },
         {
           "Name": "Content-Type",
@@ -516,11 +516,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM=\""
+          "Value": "\"IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -530,13 +530,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM="
+          "Value": "sha256-IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-if2rr2wmol.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-p2s4ftwllj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -545,7 +545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "410"
         },
         {
           "Name": "Content-Type",
@@ -553,11 +553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q=\""
+          "Value": "\"fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -575,18 +575,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q="
+          "Value": "sha256-fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU="
         }
       ]
     },
     {
-      "Route": "index.if2rr2wmol.html",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-if2rr2wmol.gz",
+      "Route": "index.p2s4ftwllj.html",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-p2s4ftwllj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004424778761"
+          "Quality": "0.002433090024"
         }
       ],
       "ResponseHeaders": [
@@ -596,15 +596,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "410"
         },
         {
           "Name": "ETag",
-          "Value": "\"DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q=\""
+          "Value": "\"fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -624,13 +624,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM=\""
+          "Value": "W/\"IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "if2rr2wmol"
+          "Value": "p2s4ftwllj"
         },
         {
           "Name": "label",
@@ -638,12 +638,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM="
+          "Value": "sha256-IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY="
         }
       ]
     },
     {
-      "Route": "index.if2rr2wmol.html",
+      "Route": "index.p2s4ftwllj.html",
       "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -653,7 +653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "316"
+          "Value": "659"
         },
         {
           "Name": "Content-Type",
@@ -661,11 +661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM=\""
+          "Value": "\"IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -675,7 +675,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "if2rr2wmol"
+          "Value": "p2s4ftwllj"
         },
         {
           "Name": "label",
@@ -683,13 +683,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8vfr4c5PV1ecQCPC+jJEHGmVfjc4JvkbSoQgjezv4IM="
+          "Value": "sha256-IaoGVVg/j1xBerA/St0XZ1IQiinfiSKOZajTJ8nKcHY="
         }
       ]
     },
     {
-      "Route": "index.if2rr2wmol.html.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-if2rr2wmol.gz",
+      "Route": "index.p2s4ftwllj.html.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\q043fkj44e-p2s4ftwllj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -698,7 +698,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "410"
         },
         {
           "Name": "Content-Type",
@@ -706,11 +706,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q=\""
+          "Value": "\"fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 11:51:50 GMT"
+          "Value": "Mon, 19 May 2025 20:47:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -728,7 +728,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "if2rr2wmol"
+          "Value": "p2s4ftwllj"
         },
         {
           "Name": "label",
@@ -736,13 +736,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DJUso+KFQ/xrrQtZsaj1lMhNslZgG0wGNxpPAH9q13Q="
+          "Value": "sha256-fxuUMi9STa5sg9DuW6kmAkgObipnqiO8GPTa/02tnzU="
         }
       ]
     },
     {
-      "Route": "js/app.5ipweew5fc.js",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\0wzbqsaccy-5ipweew5fc.gz",
+      "Route": "style.5ipweew5fc.css",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\5ckirgpzdi-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -781,7 +781,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
@@ -795,7 +795,7 @@
         },
         {
           "Name": "label",
-          "Value": "js/app.js"
+          "Value": "style.css"
         },
         {
           "Name": "integrity",
@@ -804,8 +804,8 @@
       ]
     },
     {
-      "Route": "js/app.5ipweew5fc.js",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js",
+      "Route": "style.5ipweew5fc.css",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -818,7 +818,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
@@ -840,7 +840,7 @@
         },
         {
           "Name": "label",
-          "Value": "js/app.js"
+          "Value": "style.css"
         },
         {
           "Name": "integrity",
@@ -849,8 +849,8 @@
       ]
     },
     {
-      "Route": "js/app.5ipweew5fc.js.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\0wzbqsaccy-5ipweew5fc.gz",
+      "Route": "style.5ipweew5fc.css.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\5ckirgpzdi-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -863,7 +863,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
@@ -893,7 +893,7 @@
         },
         {
           "Name": "label",
-          "Value": "js/app.js.gz"
+          "Value": "style.css.gz"
         },
         {
           "Name": "integrity",
@@ -902,8 +902,8 @@
       ]
     },
     {
-      "Route": "js/app.js",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\0wzbqsaccy-5ipweew5fc.gz",
+      "Route": "style.css",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\5ckirgpzdi-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -942,7 +942,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
@@ -957,8 +957,8 @@
       ]
     },
     {
-      "Route": "js/app.js",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js",
+      "Route": "style.css",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -971,7 +971,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
@@ -994,8 +994,8 @@
       ]
     },
     {
-      "Route": "js/app.js.gz",
-      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\0wzbqsaccy-5ipweew5fc.gz",
+      "Route": "style.css.gz",
+      "AssetFile": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\obj\\Debug\\net9.0\\compressed\\5ckirgpzdi-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1008,7 +1008,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",

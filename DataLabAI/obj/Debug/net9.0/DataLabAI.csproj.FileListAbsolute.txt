@@ -55,9 +55,6 @@ E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\DataLabAI.MvcApplica
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\DataLabAI.MvcApplicationPartsAssemblyInfo.cache
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\DataLabAI.sourcelink.json
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\scopedcss\bundle\DataLabAI.styles.css
-E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\sktww85uar-5ipweew5fc.gz
-E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\q043fkj44e-if2rr2wmol.gz
-E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\0wzbqsaccy-5ipweew5fc.gz
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\staticwebassets.build.json
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\staticwebassets.development.json
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -74,3 +71,14 @@ E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\refint\DataLabAI.dll
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\DataLabAI.pdb
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\DataLabAI.genruntimeconfig.cache
 E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\ref\DataLabAI.dll
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\PythonCode\quick analysis\results.json
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\q043fkj44e-p2s4ftwllj.gz
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\5ckirgpzdi-5ipweew5fc.gz
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\results.json
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\obj\Debug\net9.0\compressed\jtaxcs3at4-aogx9fvjr9.gz
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\wwwroot\app.js.gz
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\wwwroot\index.html.gz
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\wwwroot\app.js
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\wwwroot\index.html
+E:\.net\norm\DataLabAI\DataLabAI\DataLabAI\bin\Debug\net9.0\PythonCode\quick.py

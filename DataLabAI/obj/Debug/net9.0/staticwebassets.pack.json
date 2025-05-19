@@ -1,16 +1,16 @@
 {
   "Files": [
     {
-      "Id": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
     },
     {
       "Id": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\js\\app.js",
-      "PackagePath": "staticwebassets\\js\\app.js"
+      "Id": "E:\\.net\\norm\\DataLabAI\\DataLabAI\\DataLabAI\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DataLabAI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

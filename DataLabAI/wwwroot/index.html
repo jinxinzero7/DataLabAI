@@ -8,6 +8,13 @@
 </head>
 <body>
     <h1>DataLabAI</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="file" id="fileInput">
+    <label for="delimiter">Разделитель:</label>
+    <input type="text" name="delimiter" id="delimiter" value=",">
+    <button type="submit">Анализировать</button>
+    </form>
+    <div id="results"></div>
     <script src="app.js"></script>
 </body>
 </html>

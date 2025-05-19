@@ -1,6 +1,11 @@
+using Microsoft.Extensions.FileProviders;
 using Microsoft.OpenApi.Models;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions
+{
+    ContentRootPath = Directory.GetCurrentDirectory(),
+    Args = args
+});
 
 // Add services to the container.
 
@@ -16,7 +21,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMyOrigin",
-        policy => policy.WithOrigins("https://localhost:7285")
+        policy => policy.WithOrigins("https://localhost:7285", "http://localhost:5059")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
 });
@@ -25,21 +30,32 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+/*
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Your API v1"));
 }
-
+*/
 app.UseHttpsRedirection();
 
 // Add CORS middleware
 app.UseCors("AllowMyOrigin");
 
+// **Добавьте обслуживание статических файлов**
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(
+        Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")
+    ),
+    RequestPath = "" // Оставьте пустым, чтобы обслуживать из корня
+});
+
 app.UseAuthorization();
 
 app.MapControllers();
 
-// Redirect into swaga
-app.MapGet("/", () => Results.Redirect("/swagger"));
+// **Удалите или закомментируйте перенаправление в Swagger, если хотите видеть index.html по умолчанию**
+// app.MapGet("/", () => Results.Redirect("/swagger"));
+
 app.Run();
