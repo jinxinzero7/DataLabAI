@@ -1,2 +1,2 @@
 # DataLabAI
-ML-powered web platform for data upload, analysis, and visualization
+говно говно ням ням
